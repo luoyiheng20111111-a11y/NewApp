@@ -33,7 +33,6 @@ DerivedData/
 # Swift Package Manager
 .build/
 Packages/
-*.xcodeproj
 .swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
 
 # CocoaPods
